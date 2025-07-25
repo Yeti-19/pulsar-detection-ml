@@ -1,5 +1,6 @@
 # pulsar-detection-ml
 Pulsar Detection using Machine Learning
+
 This project implements a binary classification model to detect pulsars from radio signal data using logistic regression, built entirely from scratch with NumPy. 
 It includes data preprocessing, model training with gradient descent, and evaluation using metrics such as precision, recall, F1 score, and ROC AUC — particularly important for handling imbalanced data.
 
