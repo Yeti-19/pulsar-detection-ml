@@ -28,6 +28,3 @@ R. J. Lyon, B. W. Stappers, S. Cooper, J. M. Brooke, J. D. Knowles,
 R. J. Lyon, **HTRU2 Dataset**,  
 [DOI: 10.6084/m9.figshare.3080389.v1](https://doi.org/10.6084/m9.figshare.3080389.v1)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
